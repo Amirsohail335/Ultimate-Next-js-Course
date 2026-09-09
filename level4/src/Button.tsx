@@ -9,7 +9,7 @@ type buttonProps={
 const Button=({data,action}:buttonProps)=> {
   return (
     <div>
-      hello
+      hello Button
     </div>
   )
 }
