@@ -1,5 +1,5 @@
 
-// let b=78
+let b=78
 // // type inference
 
 // let a:number;
