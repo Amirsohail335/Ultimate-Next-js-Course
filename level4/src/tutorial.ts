@@ -2,7 +2,7 @@
 let b=78
 // // type inference
 
-// let a:number;
+let a:number;
 
 // // type annotation
 
